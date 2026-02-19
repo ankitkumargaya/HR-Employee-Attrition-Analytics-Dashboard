@@ -55,4 +55,4 @@ This project demonstrates my ability to analyze HR data, design business KPIs, a
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/ankit5517  
-Email: ankitkumargaya@gmail.com
+Email: ankitkumar473mail@gmail.com
